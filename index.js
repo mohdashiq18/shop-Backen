@@ -1,5 +1,4 @@
 const express = require('express')
-const cors = require("cors")
 const dotenv = require("dotenv");
 const { Connection } = require('./Connection/Connect');
 const { Router } = require('./Routes/Vendor/Regster');
